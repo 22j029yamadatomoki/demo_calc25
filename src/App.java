@@ -17,10 +17,10 @@ public class App {
     }
 
     public static int multi(int a,int b){
-        return 0;
+        return a*b;
     }
 
     public static int div(int a,int b){
-        return 0;
+        return a/b;
     }
 }
