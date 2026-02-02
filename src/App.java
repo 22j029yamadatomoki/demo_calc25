@@ -6,6 +6,7 @@ public class App {
         System.out.println(sub(a,b));
         System.out.println(multi(a,b));
         System.out.println(div(a,b));
+        System.out.println(CalcMod.mod(a,b));
     }
 
     public static int add(int a,int b){
